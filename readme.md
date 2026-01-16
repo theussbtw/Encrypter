@@ -16,16 +16,16 @@ Um Encriptador & Descriptografador de arquivos, feito por mim em Python apenas p
 # EXEMPLOS
 
 Linux/Mac
-python3 encryptor.py -g
-python3 encryptor.py -e documento.pdf
-python3 encryptor.py -d documento.pdf.enc
-python3 encryptor.py -e /home/usuario/backup -r
+python3 theussbtw.py -g
+python3 theussbtw.py -e documento.pdf
+python3 theussbtw.py -d documento.pdf.enc
+python3 theussbtw.py -e /home/usuario/backup -r
 
 # Windows
-python encryptor.py -g
-python encryptor.py -e documento.pdf
-python encryptor.py -d documento.pdf.enc
-python encryptor.py -e C:\Users\usuario\Documents -r
+python theussbtw.py -g
+python theussbtw.py -e documento.pdf
+python theussbtw.py -d documento.pdf.enc
+python theussbtw.py -e C:\Users\usuario\Documents -r
 
 # FLUXO DE FUNCIONAMENTO
 
